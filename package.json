@@ -1,0 +1,30 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "A simple express website in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nileshlg2003/express_website.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "bootstrap"
+  ],
+  "author": "Nilesh Goswami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nileshlg2003/express_website/issues"
+  },
+  "homepage": "https://github.com/nileshlg2003/express_website#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
